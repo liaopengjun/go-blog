@@ -1,0 +1,12 @@
+[INFO][gorm.go:19]2023/12/02 13:25:30 [root:root@tcp(mysql57:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/02 13:25:30 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.1.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/02 13:25:52 [root:root@tcp(127.0.0.1:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/02 13:26:42 [root:root@tcp(127.0.0.1:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/02 13:31:09 [root:root@tcp(mysql57:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/02 13:31:09 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.1.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/02 15:21:56 [root:root@tcp(127.0.0.1:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/02 15:21:56 [数据库连接失败: Error 1049 (42000): Unknown database 'blog' 
+]
+[INFO][gorm.go:19]2023/12/02 15:22:37 [root:root@tcp(127.0.0.1:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]

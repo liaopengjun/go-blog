@@ -1,0 +1,4 @@
+###编译二进制执行文件
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build main.go
+###运行docker compose
+docker compose up --build -d

@@ -1,0 +1,32 @@
+version: "3"
+networks:
+  blog-network:
+    driver: bridge
+services:
+  mysql57:
+    image: "mysql:5.7"
+    ports:
+      - "3306:3306"
+    command: "--default-authentication-plugin=mysql_native_password --init-file /data/application/blog.sql"
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: "blog"
+      MYSQL_PASSWORD: "root"
+    volumes:
+      - ./blog.sql:/data/application/blog.sql
+    networks:
+      - blog-network
+  web:
+    build: .
+    volumes:
+      - ./main:/go-blog/main
+    depends_on:
+      - mysql57
+    ports:
+      - "8001:8001"
+    links:
+      - mysql57
+    networks:
+      - blog-network
+    restart: always
+

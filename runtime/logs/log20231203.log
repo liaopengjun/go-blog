@@ -1,0 +1,48 @@
+[INFO][gorm.go:19]2023/12/03 11:42:15 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 11:42:15 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 11:45:28 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 11:45:28 [数据库连接失败: dial tcp 127.0.0.1:3306: connect: connection refused 
+]
+[INFO][gorm.go:19]2023/12/03 11:45:37 [root:root@tcp(127.0.0.1:33061)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 11:48:22 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 11:48:22 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:02:06 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:02:06 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:03:11 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:03:11 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:11:47 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:11:47 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:12:01 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:12:01 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:12:03 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:12:03 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:12:34 [root:root@tcp(mysql57:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 12:12:34 [数据库连接失败: dial tcp: lookup mysql57 on 192.168.31.1:53: no such host 
+]
+[INFO][gorm.go:19]2023/12/03 12:15:04 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 12:15:12 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 16:06:14 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 16:06:14 [数据库连接失败: dial tcp 127.0.0.1:3306: connect: connection refused 
+]
+[INFO][gorm.go:19]2023/12/03 16:21:36 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 16:21:36 [数据库连接失败: driver: bad connection 
+]
+[INFO][gorm.go:19]2023/12/03 16:22:33 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 16:22:47 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 16:37:39 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 16:46:48 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 16:46:55 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 17:40:34 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:26]2023/12/03 17:40:34 [数据库连接失败: dial tcp 127.0.0.1:3306: connect: connection refused 
+]
+[INFO][gorm.go:19]2023/12/03 18:05:35 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 20:36:02 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 20:37:33 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
+[INFO][gorm.go:19]2023/12/03 21:00:38 [root:root@tcp(127.0.0.1:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local]
